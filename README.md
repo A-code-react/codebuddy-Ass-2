@@ -1,2 +1,1 @@
-# codebuddy-Ass-2
-Machine Test for React JS Developer
+![Alt text](image.png)
